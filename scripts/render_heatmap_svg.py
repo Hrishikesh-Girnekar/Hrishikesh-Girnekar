@@ -249,7 +249,7 @@ svg += f'''
         x="20"
         y="{footer_y + 42}"
         class="title">
-        {stats["current_streak"]} days
+        {stats["current_streak"]} day{"s" if stats["current_streak"] != 1 else ""}
     </text>
 
 
@@ -264,7 +264,7 @@ svg += f'''
         x="190"
         y="{footer_y + 42}"
         class="title">
-        {stats["longest_streak"]} days
+        {stats["longest_streak"]} day{"s" if stats["longest_streak"] != 1 else ""}
     </text>
 
 
