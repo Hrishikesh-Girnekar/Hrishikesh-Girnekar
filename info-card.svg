@@ -1,0 +1,264 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="490"
+    height="430"
+    viewBox="0 0 490 430">
+
+    <rect
+        x="1"
+        y="1"
+        width="488"
+        height="428"
+        rx="14"
+        fill="#0d1117"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+    <!-- Terminal dots -->
+
+    <circle cx="22" cy="22" r="5" fill="#ff5f56"/>
+    <circle cx="40" cy="22" r="5" fill="#ffbd2e"/>
+    <circle cx="58" cy="22" r="5" fill="#27c93f"/>
+
+    <!-- Terminal title -->
+
+    <text
+        x="82"
+        y="27"
+        fill="#8b949e"
+        font-family="monospace"
+        font-size="13">
+        hrishi@github ~ $ whoami
+    </text>
+
+    <!-- Divider -->
+
+    <line
+        x1="22"
+        y1="48"
+        x2="468"
+        y2="48"
+        stroke="#30363d"
+        stroke-width="1"/>
+
+    <!-- Command -->
+
+    <text
+        x="28"
+        y="70"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="12">
+        &gt; developer.profile
+    </text>
+
+    <g
+        opacity="0"
+        style="animation: showLine 0.5s ease-out 0.00s forwards;">
+
+        <text
+            x="28"
+            y="82"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12">
+            &gt; ROLE
+        </text>
+
+        <text
+            x="145"
+            y="82"
+            fill="#f0f6fc"
+            font-family="monospace"
+            font-size="12">
+            Java Backend Developer
+        </text>
+
+    </g>
+
+    <g
+        opacity="0"
+        style="animation: showLine 0.5s ease-out 0.12s forwards;">
+
+        <text
+            x="28"
+            y="120"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12">
+            &gt; STACK
+        </text>
+
+        <text
+            x="145"
+            y="120"
+            fill="#f0f6fc"
+            font-family="monospace"
+            font-size="12">
+            Java • Spring Boot • React
+        </text>
+
+    </g>
+
+    <g
+        opacity="0"
+        style="animation: showLine 0.5s ease-out 0.24s forwards;">
+
+        <text
+            x="28"
+            y="158"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12">
+            &gt; DATA
+        </text>
+
+        <text
+            x="145"
+            y="158"
+            fill="#f0f6fc"
+            font-family="monospace"
+            font-size="12">
+            MySQL • JPA • Hibernate
+        </text>
+
+    </g>
+
+    <g
+        opacity="0"
+        style="animation: showLine 0.5s ease-out 0.36s forwards;">
+
+        <text
+            x="28"
+            y="196"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12">
+            &gt; BUILD
+        </text>
+
+        <text
+            x="145"
+            y="196"
+            fill="#f0f6fc"
+            font-family="monospace"
+            font-size="12">
+            REST APIs • Backend Systems
+        </text>
+
+    </g>
+
+    <g
+        opacity="0"
+        style="animation: showLine 0.5s ease-out 0.48s forwards;">
+
+        <text
+            x="28"
+            y="234"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12">
+            &gt; PRACTICE
+        </text>
+
+        <text
+            x="145"
+            y="234"
+            fill="#f0f6fc"
+            font-family="monospace"
+            font-size="12">
+            DSA • SQL • System Design
+        </text>
+
+    </g>
+
+    <g
+        opacity="0"
+        style="animation: showLine 0.5s ease-out 0.60s forwards;">
+
+        <text
+            x="28"
+            y="272"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12">
+            &gt; TOOLS
+        </text>
+
+        <text
+            x="145"
+            y="272"
+            fill="#f0f6fc"
+            font-family="monospace"
+            font-size="12">
+            Git • GitHub • Docker
+        </text>
+
+    </g>
+
+    <g
+        opacity="0"
+        style="animation: showLine 0.5s ease-out 0.72s forwards;">
+
+        <text
+            x="28"
+            y="310"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12">
+            &gt; AI
+        </text>
+
+        <text
+            x="145"
+            y="310"
+            fill="#f0f6fc"
+            font-family="monospace"
+            font-size="12">
+            Gemini Integration
+        </text>
+
+    </g>
+
+    <g
+        opacity="0"
+        style="animation: showLine 0.5s ease-out 0.84s forwards;">
+
+        <text
+            x="28"
+            y="348"
+            fill="#8b949e"
+            font-family="monospace"
+            font-size="12">
+            &gt; STATUS
+        </text>
+
+        <text
+            x="145"
+            y="348"
+            fill="#f0f6fc"
+            font-family="monospace"
+            font-size="12">
+            Building &amp; Learning 🚀
+        </text>
+
+    </g>
+
+    <style>
+
+        @keyframes showLine {
+
+            from {
+                opacity: 0;
+                transform: translateX(-8px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+
+        }
+
+    </style>
+
+</svg>

@@ -1,0 +1,502 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="800"
+    height="594"
+    viewBox="0 0 800 594">
+
+    <rect
+        width="100%"
+        height="100%"
+        fill="white"/>
+
+    <style>
+        .ascii-row {
+            opacity: 0;
+            animation: typeRow
+                0.08s
+                ease-out
+                forwards;
+        }
+
+        @keyframes typeRow {
+            from {
+                opacity: 0;
+                transform: translateX(-8px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+    </style>
+
+    <g
+        fill="#555555"
+        font-family="monospace"
+        font-size="8px"
+        xml:space="preserve">
+<text
+            class="ascii-row"
+            x="0"
+            y="9"
+            style="animation-delay: 0.000s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="18"
+            style="animation-delay: 0.045s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="27"
+            style="animation-delay: 0.090s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="36"
+            style="animation-delay: 0.135s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#s###%%%@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="45"
+            style="animation-delay: 0.180s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#c*+=::`.  .:===++++++*ccs%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="54"
+            style="animation-delay: 0.225s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#c+::`.`:`.. ...`::-::---::```..-c%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="63"
+            style="animation-delay: 0.270s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%c=:`...`.......`:-===---:..```.`::`  :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="72"
+            style="animation-delay: 0.315s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s: .....``....`:--------:.....`` .``::`.:s@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="81"
+            style="animation-delay: 0.360s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+. ...```.```:---:::`````:::-:``:`:-::::`.+@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="90"
+            style="animation-delay: 0.405s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@%=  . ..```::--:::``::-:::=:--`. .``.::--`  s@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="99"
+            style="animation-delay: 0.450s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@c.   .```:::--``.``::`::..:.:-:`::::````:.  =%@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="108"
+            style="animation-delay: 0.495s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@#`    .``:::::::::::----=-`-:---:--=--=:`.    :s@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="117"
+            style="animation-delay: 0.540s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@s.      .``-++*ccc**+++=====+++*c*ccc**++-`..  .s@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="126"
+            style="animation-delay: 0.585s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@#.    .:-+*ccss#####sscc**ccss######sscc**+-`   =@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="135"
+            style="animation-delay: 0.630s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@%`   .=**cccss###%%%%%##s############sscc*+-..  `%@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="144"
+            style="animation-delay: 0.675s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@+   `+*ccssss#######################sscc**-..  `%@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="153"
+            style="animation-delay: 0.720s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@s.  `=*csssss#####################sssscc*+=``. +@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="162"
+            style="animation-delay: 0.765s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@%. .`=*ccssss###################sssssscc*+=:`..#@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="171"
+            style="animation-delay: 0.810s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@= `:=+**csss####################ssssc**+++-. :%@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="180"
+            style="animation-delay: 0.855s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@s .-=+===+*c**css###########ssc**+++=--==+=. *@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="189"
+            style="animation-delay: 0.900s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@#  -=-:-====----=*cccsssssc**+=--=++*++=-== .%@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="198"
+            style="animation-delay: 0.945s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@%#` -=-=+*++=-------=+cssc*+=====---=++**+==.-##%@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="207"
+            style="animation-delay: 0.990s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@%s*`.=+*+-:-*` .=c++*++cssc**c*+cc. .*=`:=+++:`++c%@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="216"
+            style="animation-delay: 1.035s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@#**+:*cc*=-+c+--csccc**cssc**csccc+=+*=--+**+=+c**s@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="225"
+            style="animation-delay: 1.080s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@c*c+=+*ccscccccsss#sccccsssc**s##sssssccccc*+++cc**%@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="234"
+            style="animation-delay: 1.125s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@%ccc*=+*csssssss###s****csssc***s#######sscc*+++ccc*%@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="243"
+            style="animation-delay: 1.170s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@%c+=+=+*ccsss#####s*+***cssssc***s#####sscc**+=*+=**%@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="252"
+            style="animation-delay: 1.215s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@%*+=--=+*ccsss###s*=**++cs#sc*cc*cs####ssc**+====+*c%@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="261"
+            style="animation-delay: 1.260s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@%s*c+--++*cccssssc***=--=++*+==*ccssssscc*++===+ccc#@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="270"
+            style="animation-delay: 1.305s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@%#cc*-=++**cccssccccccsscccccccccccsc***+++==*ccc#@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="279"
+            style="animation-delay: 1.350s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%s==++++**+===++**cccccc*++=-:-=*+++++=+#%%%%@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="288"
+            style="animation-delay: 1.395s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@c+++++++:```:---===+++==-::``:++++++=s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="297"
+            style="animation-delay: 1.440s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%c+**++++*+-:--+ccccccc+=-=++++++++=s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="306"
+            style="animation-delay: 1.485s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%c+**++*cc*++++*cccc**+******++===*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="315"
+            style="animation-delay: 1.530s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@s=++++**ccccccccccccccccccc**+===c@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="324"
+            style="animation-delay: 1.575s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=====+*ccsss########ssccc**+=-=+s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="333"
+            style="animation-delay: 1.620s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%++=-::-=*cs##########scc*=---=++s@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="342"
+            style="animation-delay: 1.665s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%s*+*+-```:-+ccsssssssc*+-::-=++++ccs@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="351"
+            style="animation-delay: 1.710s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*=csc**+=-:`..`:-====-:```:--=++++cs*`+%@@@@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="360"
+            style="animation-delay: 1.755s">
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@%s+:.+csssc**+=-:```.`````:::---=++*csscc- :+s#@@@@@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="369"
+            style="animation-delay: 1.800s">
+            @@@@@@@@@@@@@@@@@@@@@@@@%%s*=:...`*ccs##sc*+=-----===+++=====+*c##sscc=...`:=*#%@@@@@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="378"
+            style="animation-delay: 1.845s">
+            @@@@@@@@@@@@@@@@@@@%#s*=-`.......`+ccss##%#c+=====++++++++=++c#%#ssssc+`...````-+*s%@@@@@@@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="387"
+            style="animation-delay: 1.890s">
+            @@@@@@@@@@@@%%sc*+=-:`...........`=ccsss##%%#s*=+++*****++*s#%%#sssscs+``..``````.`:-+cs%%@@@@@@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="396"
+            style="animation-delay: 1.935s">
+            @@@@@@%#sc*+=::``````...........``=cccssss#%%%%#+=+++++*#%%%%##ssssss#=``...````````.```:-=*c#%@@@@@
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="405"
+            style="animation-delay: 1.980s">
+            %#sc*+=--:```````````...........``-ssccssss#%%*:`.```:``-*#%#sssss###s:````.``````````````````:-+*s#
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="414"
+            style="animation-delay: 2.025s">
+            --::::::````````````...........```:ssssssccss- .``::::`. .=s#sss#####*``...``````````````````..`````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="423"
+            style="animation-delay: 2.070s">
+            `````````````````````.....````..``:c#sssscsc-:`.`:::--` :**+cs#######-``..```````````````````````.``
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="432"
+            style="animation-delay: 2.115s">
+            ``````````````````````...`````..```=#sssssc**++: `:--` .csssccs#####c```..````````.`````````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="441"
+            style="animation-delay: 2.160s">
+            .`````````````````````````````..```:s###sc*ssc**`.```` +##s###sss###+```..``````.```````````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="450"
+            style="animation-delay: 2.205s">
+            .`````````````````.```````````...```c##ssscssss-..`::. +########ss#s:``...``````````````````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="459"
+            style="animation-delay: 2.250s">
+            .`````````````````.`:`````````...```+sc#%#scs#+. .--:. .c###%##s###+```...``````````````````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="468"
+            style="animation-delay: 2.295s">
+            .`````````````````..`:`````````..```+#s#%#scss`.``:-:. .=###%s#s##s-``...```````````.```````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="477"
+            style="animation-delay: 2.340s">
+            .`:```::``:::``::``..:`````````...``=#s#%%scsc``.:--:``.`s#%#sss##c```...```````````````````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="486"
+            style="animation-delay: 2.385s">
+            .`::::::::::::`:::``.``````````...``:cs#%%sc#+..:---=:`.`c#%s#s###=.`...```````````.````````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="495"
+            style="animation-delay: 2.430s">
+            .`::::::::::::::::`:`.:````````...```+s#%%sc#=.`:-=---:`.*##s##%#c```...``````````.`````````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="504"
+            style="animation-delay: 2.475s">
+            .`::::::::::::::::```.``````````..```-##%#cs#-.`--:-=-::`*#s#s#%#+.``..`````````````````````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="513"
+            style="animation-delay: 2.520s">
+            `.:::::::::::::::`````.``````````.```:s#%#cs#:`:`:---==:.*#s##%#s:.``.``````````````````````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="522"
+            style="animation-delay: 2.565s">
+            `.`::::::::::```:````````````````..```c#%#c##:.`--:-==-:.*ss#%%#*```````````````````````````````````
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="531"
+            style="animation-delay: 2.610s">
+            :.``:::::::````````````.``````````````+#%ss#s`.::-=-:--:.+c##%%s-.``````````````````````````````::`:
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="540"
+            style="animation-delay: 2.655s">
+            :..`:::::::`````````````.`````````````:s#cs%c`.`==::--::`=s##%#c````.``````````````````````````:::::
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="549"
+            style="animation-delay: 2.700s">
+            :`.`::::::::```````````````````````````c#c#%c.`=-:--::-=``s#%%#+.``````````````````````````````:::::
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="558"
+            style="animation-delay: 2.745s">
+            ::..`::::::``````````````.````````````.=ss#%*`::--:`--:::`s#%#s-.````````````.````````````````:::::`
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="567"
+            style="animation-delay: 2.790s">
+            ::`.`:::::::``````````````.`````````````*##%+.:-:`:-:``--.c#%#c```````````````````````````````:::::`
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="576"
+            style="animation-delay: 2.835s">
+            :::..`::::````````````````.````````````.+%##-.-::=-`:--`::*###+.``.``````````````````````````::::::`
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="585"
+            style="animation-delay: 2.880s">
+            :::`..```:````````..```````.```````````.-###:`:-=::--:`-=:+##s-.`..````````.```````````````````.`:`.
+        </text>
+<text
+            class="ascii-row"
+            x="0"
+            y="594"
+            style="animation-delay: 2.925s">
+            :::` ..``````````...````````.``````````.`s#s`:=-:--:`-=:-:=ssc`.....``````.`````````````````....```.
+        </text>
+
+    </g>
+</svg>

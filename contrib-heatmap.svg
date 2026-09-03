@@ -1,0 +1,6882 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="860"
+    height="260"
+    viewBox="0 0 860 260">
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="14"
+        fill="#0d1117"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+    <style>
+
+        .cell {
+            opacity: 0;
+            animation:
+                appear 0.35s ease-out
+                forwards;
+        }
+
+        @keyframes appear {
+
+            from {
+                opacity: 0;
+                transform: scale(0.4);
+            }
+
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+
+        }
+
+        .title {
+            font-family: monospace;
+            font-size: 14px;
+            fill: #f0f6fc;
+            font-weight: bold;
+        }
+
+        .subtitle {
+            font-family: monospace;
+            font-size: 11px;
+            fill: #8b949e;
+        }
+
+        .stat {
+            font-family: monospace;
+            font-size: 11px;
+            fill: #8b949e;
+        }
+
+    </style>
+
+    <text
+        x="20"
+        y="24"
+        class="title">
+        hrishi@github ~ $ ./contributions.sh
+    </text>
+
+    <text
+        x="840"
+        y="24"
+        text-anchor="end"
+        class="subtitle">
+        1 day streak
+    </text>
+
+        <rect
+            class="cell"
+            x="40"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.000s;
+            ">
+            <title>
+                2025-08-31
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="40"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.035s;
+            ">
+            <title>
+                2025-09-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="40"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.070s;
+            ">
+            <title>
+                2025-09-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="40"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.105s;
+            ">
+            <title>
+                2025-09-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="40"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.140s;
+            ">
+            <title>
+                2025-09-04
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="40"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.175s;
+            ">
+            <title>
+                2025-09-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="40"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.210s;
+            ">
+            <title>
+                2025-09-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="55"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.025s;
+            ">
+            <title>
+                2025-09-07
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="55"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.060s;
+            ">
+            <title>
+                2025-09-08
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="55"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.095s;
+            ">
+            <title>
+                2025-09-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="55"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.130s;
+            ">
+            <title>
+                2025-09-10
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="55"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.165s;
+            ">
+            <title>
+                2025-09-11
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="55"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.200s;
+            ">
+            <title>
+                2025-09-12
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="55"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.235s;
+            ">
+            <title>
+                2025-09-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="70"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.050s;
+            ">
+            <title>
+                2025-09-14
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="70"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.085s;
+            ">
+            <title>
+                2025-09-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="70"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.120s;
+            ">
+            <title>
+                2025-09-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="70"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.155s;
+            ">
+            <title>
+                2025-09-17
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="70"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.190s;
+            ">
+            <title>
+                2025-09-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="70"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.225s;
+            ">
+            <title>
+                2025-09-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="70"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.260s;
+            ">
+            <title>
+                2025-09-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="85"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.075s;
+            ">
+            <title>
+                2025-09-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="85"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.110s;
+            ">
+            <title>
+                2025-09-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="85"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.145s;
+            ">
+            <title>
+                2025-09-23
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="85"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.180s;
+            ">
+            <title>
+                2025-09-24
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="85"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.215s;
+            ">
+            <title>
+                2025-09-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="85"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.250s;
+            ">
+            <title>
+                2025-09-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="85"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.285s;
+            ">
+            <title>
+                2025-09-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="100"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.100s;
+            ">
+            <title>
+                2025-09-28
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="100"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.135s;
+            ">
+            <title>
+                2025-09-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="100"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.170s;
+            ">
+            <title>
+                2025-09-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="100"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.205s;
+            ">
+            <title>
+                2025-10-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="100"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.240s;
+            ">
+            <title>
+                2025-10-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="100"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.275s;
+            ">
+            <title>
+                2025-10-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="100"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.310s;
+            ">
+            <title>
+                2025-10-04
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="115"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.125s;
+            ">
+            <title>
+                2025-10-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="115"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.160s;
+            ">
+            <title>
+                2025-10-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="115"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.195s;
+            ">
+            <title>
+                2025-10-07
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="115"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.230s;
+            ">
+            <title>
+                2025-10-08
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="115"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.265s;
+            ">
+            <title>
+                2025-10-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="115"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.300s;
+            ">
+            <title>
+                2025-10-10
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="115"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.335s;
+            ">
+            <title>
+                2025-10-11
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="130"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#39d353"
+            style="
+                animation-delay:
+                0.150s;
+            ">
+            <title>
+                2025-10-12
+                — level 4
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="130"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.185s;
+            ">
+            <title>
+                2025-10-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="130"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.220s;
+            ">
+            <title>
+                2025-10-14
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="130"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.255s;
+            ">
+            <title>
+                2025-10-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="130"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.290s;
+            ">
+            <title>
+                2025-10-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="130"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.325s;
+            ">
+            <title>
+                2025-10-17
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="130"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.360s;
+            ">
+            <title>
+                2025-10-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="145"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#39d353"
+            style="
+                animation-delay:
+                0.175s;
+            ">
+            <title>
+                2025-10-19
+                — level 4
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="145"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.210s;
+            ">
+            <title>
+                2025-10-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="145"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.245s;
+            ">
+            <title>
+                2025-10-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="145"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.280s;
+            ">
+            <title>
+                2025-10-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="145"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.315s;
+            ">
+            <title>
+                2025-10-23
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="145"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.350s;
+            ">
+            <title>
+                2025-10-24
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="145"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.385s;
+            ">
+            <title>
+                2025-10-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="160"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.200s;
+            ">
+            <title>
+                2025-10-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="160"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.235s;
+            ">
+            <title>
+                2025-10-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="160"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.270s;
+            ">
+            <title>
+                2025-10-28
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="160"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.305s;
+            ">
+            <title>
+                2025-10-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="160"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.340s;
+            ">
+            <title>
+                2025-10-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="160"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.375s;
+            ">
+            <title>
+                2025-10-31
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="160"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.410s;
+            ">
+            <title>
+                2025-11-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="175"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.225s;
+            ">
+            <title>
+                2025-11-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="175"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.260s;
+            ">
+            <title>
+                2025-11-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="175"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.295s;
+            ">
+            <title>
+                2025-11-04
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="175"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.330s;
+            ">
+            <title>
+                2025-11-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="175"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.365s;
+            ">
+            <title>
+                2025-11-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="175"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.400s;
+            ">
+            <title>
+                2025-11-07
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="175"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.435s;
+            ">
+            <title>
+                2025-11-08
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="190"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.250s;
+            ">
+            <title>
+                2025-11-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="190"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.285s;
+            ">
+            <title>
+                2025-11-10
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="190"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.320s;
+            ">
+            <title>
+                2025-11-11
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="190"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.355s;
+            ">
+            <title>
+                2025-11-12
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="190"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.390s;
+            ">
+            <title>
+                2025-11-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="190"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.425s;
+            ">
+            <title>
+                2025-11-14
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="190"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.460s;
+            ">
+            <title>
+                2025-11-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="205"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.275s;
+            ">
+            <title>
+                2025-11-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="205"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.310s;
+            ">
+            <title>
+                2025-11-17
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="205"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.345s;
+            ">
+            <title>
+                2025-11-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="205"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.380s;
+            ">
+            <title>
+                2025-11-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="205"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.415s;
+            ">
+            <title>
+                2025-11-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="205"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.450s;
+            ">
+            <title>
+                2025-11-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="205"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.485s;
+            ">
+            <title>
+                2025-11-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="220"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.300s;
+            ">
+            <title>
+                2025-11-23
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="220"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.335s;
+            ">
+            <title>
+                2025-11-24
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="220"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.370s;
+            ">
+            <title>
+                2025-11-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="220"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.405s;
+            ">
+            <title>
+                2025-11-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="220"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.440s;
+            ">
+            <title>
+                2025-11-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="220"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.475s;
+            ">
+            <title>
+                2025-11-28
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="220"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.510s;
+            ">
+            <title>
+                2025-11-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="235"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.325s;
+            ">
+            <title>
+                2025-11-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="235"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.360s;
+            ">
+            <title>
+                2025-12-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="235"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.395s;
+            ">
+            <title>
+                2025-12-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="235"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.430s;
+            ">
+            <title>
+                2025-12-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="235"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.465s;
+            ">
+            <title>
+                2025-12-04
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="235"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.500s;
+            ">
+            <title>
+                2025-12-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="235"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.535s;
+            ">
+            <title>
+                2025-12-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="250"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.350s;
+            ">
+            <title>
+                2025-12-07
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="250"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.385s;
+            ">
+            <title>
+                2025-12-08
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="250"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.420s;
+            ">
+            <title>
+                2025-12-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="250"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.455s;
+            ">
+            <title>
+                2025-12-10
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="250"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.490s;
+            ">
+            <title>
+                2025-12-11
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="250"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.525s;
+            ">
+            <title>
+                2025-12-12
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="250"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.560s;
+            ">
+            <title>
+                2025-12-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="265"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.375s;
+            ">
+            <title>
+                2025-12-14
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="265"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.410s;
+            ">
+            <title>
+                2025-12-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="265"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.445s;
+            ">
+            <title>
+                2025-12-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="265"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.480s;
+            ">
+            <title>
+                2025-12-17
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="265"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.515s;
+            ">
+            <title>
+                2025-12-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="265"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.550s;
+            ">
+            <title>
+                2025-12-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="265"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.585s;
+            ">
+            <title>
+                2025-12-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="280"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.400s;
+            ">
+            <title>
+                2025-12-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="280"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.435s;
+            ">
+            <title>
+                2025-12-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="280"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.470s;
+            ">
+            <title>
+                2025-12-23
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="280"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.505s;
+            ">
+            <title>
+                2025-12-24
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="280"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.540s;
+            ">
+            <title>
+                2025-12-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="280"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.575s;
+            ">
+            <title>
+                2025-12-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="280"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.610s;
+            ">
+            <title>
+                2025-12-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="295"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.425s;
+            ">
+            <title>
+                2025-12-28
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="295"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.460s;
+            ">
+            <title>
+                2025-12-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="295"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.495s;
+            ">
+            <title>
+                2025-12-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="295"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.530s;
+            ">
+            <title>
+                2025-12-31
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="295"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.565s;
+            ">
+            <title>
+                2026-01-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="295"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.600s;
+            ">
+            <title>
+                2026-01-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="295"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.635s;
+            ">
+            <title>
+                2026-01-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="310"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.450s;
+            ">
+            <title>
+                2026-01-04
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="310"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.485s;
+            ">
+            <title>
+                2026-01-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="310"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.520s;
+            ">
+            <title>
+                2026-01-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="310"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.555s;
+            ">
+            <title>
+                2026-01-07
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="310"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.590s;
+            ">
+            <title>
+                2026-01-08
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="310"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.625s;
+            ">
+            <title>
+                2026-01-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="310"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.660s;
+            ">
+            <title>
+                2026-01-10
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="325"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.475s;
+            ">
+            <title>
+                2026-01-11
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="325"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.510s;
+            ">
+            <title>
+                2026-01-12
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="325"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.545s;
+            ">
+            <title>
+                2026-01-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="325"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.580s;
+            ">
+            <title>
+                2026-01-14
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="325"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.615s;
+            ">
+            <title>
+                2026-01-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="325"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.650s;
+            ">
+            <title>
+                2026-01-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="325"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.685s;
+            ">
+            <title>
+                2026-01-17
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="340"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.500s;
+            ">
+            <title>
+                2026-01-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="340"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.535s;
+            ">
+            <title>
+                2026-01-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="340"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.570s;
+            ">
+            <title>
+                2026-01-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="340"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.605s;
+            ">
+            <title>
+                2026-01-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="340"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.640s;
+            ">
+            <title>
+                2026-01-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="340"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.675s;
+            ">
+            <title>
+                2026-01-23
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="340"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.710s;
+            ">
+            <title>
+                2026-01-24
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="355"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.525s;
+            ">
+            <title>
+                2026-01-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="355"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.560s;
+            ">
+            <title>
+                2026-01-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="355"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.595s;
+            ">
+            <title>
+                2026-01-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="355"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.630s;
+            ">
+            <title>
+                2026-01-28
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="355"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.665s;
+            ">
+            <title>
+                2026-01-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="355"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.700s;
+            ">
+            <title>
+                2026-01-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="355"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.735s;
+            ">
+            <title>
+                2026-01-31
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="370"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.550s;
+            ">
+            <title>
+                2026-02-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="370"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.585s;
+            ">
+            <title>
+                2026-02-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="370"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.620s;
+            ">
+            <title>
+                2026-02-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="370"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.655s;
+            ">
+            <title>
+                2026-02-04
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="370"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.690s;
+            ">
+            <title>
+                2026-02-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="370"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.725s;
+            ">
+            <title>
+                2026-02-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="370"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.760s;
+            ">
+            <title>
+                2026-02-07
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="385"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.575s;
+            ">
+            <title>
+                2026-02-08
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="385"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.610s;
+            ">
+            <title>
+                2026-02-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="385"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.645s;
+            ">
+            <title>
+                2026-02-10
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="385"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.680s;
+            ">
+            <title>
+                2026-02-11
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="385"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.715s;
+            ">
+            <title>
+                2026-02-12
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="385"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.750s;
+            ">
+            <title>
+                2026-02-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="385"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.785s;
+            ">
+            <title>
+                2026-02-14
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="400"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.600s;
+            ">
+            <title>
+                2026-02-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="400"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.635s;
+            ">
+            <title>
+                2026-02-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="400"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.670s;
+            ">
+            <title>
+                2026-02-17
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="400"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.705s;
+            ">
+            <title>
+                2026-02-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="400"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.740s;
+            ">
+            <title>
+                2026-02-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="400"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.775s;
+            ">
+            <title>
+                2026-02-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="400"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.810s;
+            ">
+            <title>
+                2026-02-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="415"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.625s;
+            ">
+            <title>
+                2026-02-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="415"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.660s;
+            ">
+            <title>
+                2026-02-23
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="415"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.695s;
+            ">
+            <title>
+                2026-02-24
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="415"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.730s;
+            ">
+            <title>
+                2026-02-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="415"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.765s;
+            ">
+            <title>
+                2026-02-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="415"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.800s;
+            ">
+            <title>
+                2026-02-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="415"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#006d32"
+            style="
+                animation-delay:
+                0.835s;
+            ">
+            <title>
+                2026-02-28
+                — level 2
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="430"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.650s;
+            ">
+            <title>
+                2026-03-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="430"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.685s;
+            ">
+            <title>
+                2026-03-02
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="430"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.720s;
+            ">
+            <title>
+                2026-03-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="430"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.755s;
+            ">
+            <title>
+                2026-03-04
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="430"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.790s;
+            ">
+            <title>
+                2026-03-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="430"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.825s;
+            ">
+            <title>
+                2026-03-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="430"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.860s;
+            ">
+            <title>
+                2026-03-07
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="445"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.675s;
+            ">
+            <title>
+                2026-03-08
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="445"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.710s;
+            ">
+            <title>
+                2026-03-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="445"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.745s;
+            ">
+            <title>
+                2026-03-10
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="445"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#39d353"
+            style="
+                animation-delay:
+                0.780s;
+            ">
+            <title>
+                2026-03-11
+                — level 4
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="445"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.815s;
+            ">
+            <title>
+                2026-03-12
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="445"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#006d32"
+            style="
+                animation-delay:
+                0.850s;
+            ">
+            <title>
+                2026-03-13
+                — level 2
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="445"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.885s;
+            ">
+            <title>
+                2026-03-14
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="460"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.700s;
+            ">
+            <title>
+                2026-03-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="460"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#006d32"
+            style="
+                animation-delay:
+                0.735s;
+            ">
+            <title>
+                2026-03-16
+                — level 2
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="460"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#006d32"
+            style="
+                animation-delay:
+                0.770s;
+            ">
+            <title>
+                2026-03-17
+                — level 2
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="460"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.805s;
+            ">
+            <title>
+                2026-03-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="460"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.840s;
+            ">
+            <title>
+                2026-03-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="460"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.875s;
+            ">
+            <title>
+                2026-03-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="460"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.910s;
+            ">
+            <title>
+                2026-03-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="475"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.725s;
+            ">
+            <title>
+                2026-03-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="475"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.760s;
+            ">
+            <title>
+                2026-03-23
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="475"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.795s;
+            ">
+            <title>
+                2026-03-24
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="475"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.830s;
+            ">
+            <title>
+                2026-03-25
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="475"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.865s;
+            ">
+            <title>
+                2026-03-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="475"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.900s;
+            ">
+            <title>
+                2026-03-27
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="475"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.935s;
+            ">
+            <title>
+                2026-03-28
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="490"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.750s;
+            ">
+            <title>
+                2026-03-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="490"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.785s;
+            ">
+            <title>
+                2026-03-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="490"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.820s;
+            ">
+            <title>
+                2026-03-31
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="490"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.855s;
+            ">
+            <title>
+                2026-04-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="490"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#26a641"
+            style="
+                animation-delay:
+                0.890s;
+            ">
+            <title>
+                2026-04-02
+                — level 3
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="490"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.925s;
+            ">
+            <title>
+                2026-04-03
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="490"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.960s;
+            ">
+            <title>
+                2026-04-04
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="505"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#006d32"
+            style="
+                animation-delay:
+                0.775s;
+            ">
+            <title>
+                2026-04-05
+                — level 2
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="505"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#39d353"
+            style="
+                animation-delay:
+                0.810s;
+            ">
+            <title>
+                2026-04-06
+                — level 4
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="505"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#39d353"
+            style="
+                animation-delay:
+                0.845s;
+            ">
+            <title>
+                2026-04-07
+                — level 4
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="505"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                0.880s;
+            ">
+            <title>
+                2026-04-08
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="505"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.915s;
+            ">
+            <title>
+                2026-04-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="505"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.950s;
+            ">
+            <title>
+                2026-04-10
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="505"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.985s;
+            ">
+            <title>
+                2026-04-11
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="520"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.800s;
+            ">
+            <title>
+                2026-04-12
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="520"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.835s;
+            ">
+            <title>
+                2026-04-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="520"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#26a641"
+            style="
+                animation-delay:
+                0.870s;
+            ">
+            <title>
+                2026-04-14
+                — level 3
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="520"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#26a641"
+            style="
+                animation-delay:
+                0.905s;
+            ">
+            <title>
+                2026-04-15
+                — level 3
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="520"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.940s;
+            ">
+            <title>
+                2026-04-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="520"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.975s;
+            ">
+            <title>
+                2026-04-17
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="520"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.010s;
+            ">
+            <title>
+                2026-04-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="535"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.825s;
+            ">
+            <title>
+                2026-04-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="535"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.860s;
+            ">
+            <title>
+                2026-04-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="535"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.895s;
+            ">
+            <title>
+                2026-04-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="535"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.930s;
+            ">
+            <title>
+                2026-04-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="535"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.965s;
+            ">
+            <title>
+                2026-04-23
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="535"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.000s;
+            ">
+            <title>
+                2026-04-24
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="535"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.035s;
+            ">
+            <title>
+                2026-04-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="550"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.850s;
+            ">
+            <title>
+                2026-04-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="550"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.885s;
+            ">
+            <title>
+                2026-04-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="550"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.920s;
+            ">
+            <title>
+                2026-04-28
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="550"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.955s;
+            ">
+            <title>
+                2026-04-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="550"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.990s;
+            ">
+            <title>
+                2026-04-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="550"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.025s;
+            ">
+            <title>
+                2026-05-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="550"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.060s;
+            ">
+            <title>
+                2026-05-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="565"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.875s;
+            ">
+            <title>
+                2026-05-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="565"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.910s;
+            ">
+            <title>
+                2026-05-04
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="565"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.945s;
+            ">
+            <title>
+                2026-05-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="565"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.980s;
+            ">
+            <title>
+                2026-05-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="565"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.015s;
+            ">
+            <title>
+                2026-05-07
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="565"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.050s;
+            ">
+            <title>
+                2026-05-08
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="565"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.085s;
+            ">
+            <title>
+                2026-05-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="580"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.900s;
+            ">
+            <title>
+                2026-05-10
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="580"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.935s;
+            ">
+            <title>
+                2026-05-11
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="580"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.970s;
+            ">
+            <title>
+                2026-05-12
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="580"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.005s;
+            ">
+            <title>
+                2026-05-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="580"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.040s;
+            ">
+            <title>
+                2026-05-14
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="580"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.075s;
+            ">
+            <title>
+                2026-05-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="580"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.110s;
+            ">
+            <title>
+                2026-05-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="595"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.925s;
+            ">
+            <title>
+                2026-05-17
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="595"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.960s;
+            ">
+            <title>
+                2026-05-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="595"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.995s;
+            ">
+            <title>
+                2026-05-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="595"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.030s;
+            ">
+            <title>
+                2026-05-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="595"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.065s;
+            ">
+            <title>
+                2026-05-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="595"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.100s;
+            ">
+            <title>
+                2026-05-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="595"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.135s;
+            ">
+            <title>
+                2026-05-23
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="610"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.950s;
+            ">
+            <title>
+                2026-05-24
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="610"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.985s;
+            ">
+            <title>
+                2026-05-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="610"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.020s;
+            ">
+            <title>
+                2026-05-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="610"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.055s;
+            ">
+            <title>
+                2026-05-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="610"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.090s;
+            ">
+            <title>
+                2026-05-28
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="610"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.125s;
+            ">
+            <title>
+                2026-05-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="610"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.160s;
+            ">
+            <title>
+                2026-05-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="625"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                0.975s;
+            ">
+            <title>
+                2026-05-31
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="625"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.010s;
+            ">
+            <title>
+                2026-06-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="625"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.045s;
+            ">
+            <title>
+                2026-06-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="625"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.080s;
+            ">
+            <title>
+                2026-06-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="625"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.115s;
+            ">
+            <title>
+                2026-06-04
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="625"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.150s;
+            ">
+            <title>
+                2026-06-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="625"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.185s;
+            ">
+            <title>
+                2026-06-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="640"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.000s;
+            ">
+            <title>
+                2026-06-07
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="640"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.035s;
+            ">
+            <title>
+                2026-06-08
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="640"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.070s;
+            ">
+            <title>
+                2026-06-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="640"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.105s;
+            ">
+            <title>
+                2026-06-10
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="640"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.140s;
+            ">
+            <title>
+                2026-06-11
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="640"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.175s;
+            ">
+            <title>
+                2026-06-12
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="640"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.210s;
+            ">
+            <title>
+                2026-06-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="655"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.025s;
+            ">
+            <title>
+                2026-06-14
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="655"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.060s;
+            ">
+            <title>
+                2026-06-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="655"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.095s;
+            ">
+            <title>
+                2026-06-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="655"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.130s;
+            ">
+            <title>
+                2026-06-17
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="655"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.165s;
+            ">
+            <title>
+                2026-06-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="655"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.200s;
+            ">
+            <title>
+                2026-06-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="655"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.235s;
+            ">
+            <title>
+                2026-06-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="670"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.050s;
+            ">
+            <title>
+                2026-06-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="670"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.085s;
+            ">
+            <title>
+                2026-06-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="670"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.120s;
+            ">
+            <title>
+                2026-06-23
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="670"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.155s;
+            ">
+            <title>
+                2026-06-24
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="670"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.190s;
+            ">
+            <title>
+                2026-06-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="670"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.225s;
+            ">
+            <title>
+                2026-06-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="670"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.260s;
+            ">
+            <title>
+                2026-06-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="685"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.075s;
+            ">
+            <title>
+                2026-06-28
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="685"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.110s;
+            ">
+            <title>
+                2026-06-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="685"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.145s;
+            ">
+            <title>
+                2026-06-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="685"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.180s;
+            ">
+            <title>
+                2026-07-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="685"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.215s;
+            ">
+            <title>
+                2026-07-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="685"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.250s;
+            ">
+            <title>
+                2026-07-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="685"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.285s;
+            ">
+            <title>
+                2026-07-04
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="700"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.100s;
+            ">
+            <title>
+                2026-07-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="700"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.135s;
+            ">
+            <title>
+                2026-07-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="700"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.170s;
+            ">
+            <title>
+                2026-07-07
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="700"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.205s;
+            ">
+            <title>
+                2026-07-08
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="700"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.240s;
+            ">
+            <title>
+                2026-07-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="700"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.275s;
+            ">
+            <title>
+                2026-07-10
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="700"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.310s;
+            ">
+            <title>
+                2026-07-11
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="715"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.125s;
+            ">
+            <title>
+                2026-07-12
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="715"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.160s;
+            ">
+            <title>
+                2026-07-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="715"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.195s;
+            ">
+            <title>
+                2026-07-14
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="715"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.230s;
+            ">
+            <title>
+                2026-07-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="715"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.265s;
+            ">
+            <title>
+                2026-07-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="715"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.300s;
+            ">
+            <title>
+                2026-07-17
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="715"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.335s;
+            ">
+            <title>
+                2026-07-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="730"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.150s;
+            ">
+            <title>
+                2026-07-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="730"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.185s;
+            ">
+            <title>
+                2026-07-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="730"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.220s;
+            ">
+            <title>
+                2026-07-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="730"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.255s;
+            ">
+            <title>
+                2026-07-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="730"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#39d353"
+            style="
+                animation-delay:
+                1.290s;
+            ">
+            <title>
+                2026-07-23
+                — level 4
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="730"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                1.325s;
+            ">
+            <title>
+                2026-07-24
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="730"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.360s;
+            ">
+            <title>
+                2026-07-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="745"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.175s;
+            ">
+            <title>
+                2026-07-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="745"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.210s;
+            ">
+            <title>
+                2026-07-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="745"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.245s;
+            ">
+            <title>
+                2026-07-28
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="745"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.280s;
+            ">
+            <title>
+                2026-07-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="745"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.315s;
+            ">
+            <title>
+                2026-07-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="745"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.350s;
+            ">
+            <title>
+                2026-07-31
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="745"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.385s;
+            ">
+            <title>
+                2026-08-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="760"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.200s;
+            ">
+            <title>
+                2026-08-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="760"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.235s;
+            ">
+            <title>
+                2026-08-03
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="760"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                1.270s;
+            ">
+            <title>
+                2026-08-04
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="760"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.305s;
+            ">
+            <title>
+                2026-08-05
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="760"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.340s;
+            ">
+            <title>
+                2026-08-06
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="760"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.375s;
+            ">
+            <title>
+                2026-08-07
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="760"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.410s;
+            ">
+            <title>
+                2026-08-08
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="775"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.225s;
+            ">
+            <title>
+                2026-08-09
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="775"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.260s;
+            ">
+            <title>
+                2026-08-10
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="775"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.295s;
+            ">
+            <title>
+                2026-08-11
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="775"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.330s;
+            ">
+            <title>
+                2026-08-12
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="775"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.365s;
+            ">
+            <title>
+                2026-08-13
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="775"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.400s;
+            ">
+            <title>
+                2026-08-14
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="775"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.435s;
+            ">
+            <title>
+                2026-08-15
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="790"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.250s;
+            ">
+            <title>
+                2026-08-16
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="790"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.285s;
+            ">
+            <title>
+                2026-08-17
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="790"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.320s;
+            ">
+            <title>
+                2026-08-18
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="790"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.355s;
+            ">
+            <title>
+                2026-08-19
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="790"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.390s;
+            ">
+            <title>
+                2026-08-20
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="790"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.425s;
+            ">
+            <title>
+                2026-08-21
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="790"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.460s;
+            ">
+            <title>
+                2026-08-22
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="805"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.275s;
+            ">
+            <title>
+                2026-08-23
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="805"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.310s;
+            ">
+            <title>
+                2026-08-24
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="805"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.345s;
+            ">
+            <title>
+                2026-08-25
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="805"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.380s;
+            ">
+            <title>
+                2026-08-26
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="805"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.415s;
+            ">
+            <title>
+                2026-08-27
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="805"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.450s;
+            ">
+            <title>
+                2026-08-28
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="805"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.485s;
+            ">
+            <title>
+                2026-08-29
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="820"
+            y="38"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.300s;
+            ">
+            <title>
+                2026-08-30
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="820"
+            y="53"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.335s;
+            ">
+            <title>
+                2026-08-31
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="820"
+            y="68"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.370s;
+            ">
+            <title>
+                2026-09-01
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="820"
+            y="83"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.405s;
+            ">
+            <title>
+                2026-09-02
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="820"
+            y="98"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#0e4429"
+            style="
+                animation-delay:
+                1.440s;
+            ">
+            <title>
+                2026-09-03
+                — level 1
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="820"
+            y="113"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.475s;
+            ">
+            <title>
+                2026-09-04
+                — level 0
+            </title>
+        </rect>
+        
+        <rect
+            class="cell"
+            x="820"
+            y="128"
+            width="12"
+            height="12"
+            rx="2"
+            fill="#161b22"
+            style="
+                animation-delay:
+                1.510s;
+            ">
+            <title>
+                2026-09-05
+                — level 0
+            </title>
+        </rect>
+        
+    <line
+        x1="20"
+        y1="150"
+        x2="840"
+        y2="150"
+        stroke="#30363d"
+        stroke-width="1"/>
+
+    <text
+        x="20"
+        y="170"
+        class="stat">
+        CURRENT STREAK
+    </text>
+
+    <text
+        x="20"
+        y="187"
+        class="title">
+        1 days
+    </text>
+
+
+    <text
+        x="190"
+        y="170"
+        class="stat">
+        LONGEST STREAK
+    </text>
+
+    <text
+        x="190"
+        y="187"
+        class="title">
+        3 days
+    </text>
+
+
+    <text
+        x="360"
+        y="170"
+        class="stat">
+        BEST DAY
+    </text>
+
+    <text
+        x="360"
+        y="187"
+        class="title">
+        level 4
+    </text>
+
+
+    <text
+        x="530"
+        y="170"
+        class="stat">
+        CONTRIBUTION DAYS
+    </text>
+
+    <text
+        x="530"
+        y="187"
+        class="title">
+        37
+    </text>
+
+
+    <text
+        x="20"
+        y="220"
+        class="subtitle">
+        Less
+    </text>
+
+    <rect
+        x="58"
+        y="211"
+        width="12"
+        height="12"
+        rx="2"
+        fill="#161b22"/>
+    
+    <rect
+        x="73"
+        y="211"
+        width="12"
+        height="12"
+        rx="2"
+        fill="#0e4429"/>
+    
+    <rect
+        x="88"
+        y="211"
+        width="12"
+        height="12"
+        rx="2"
+        fill="#006d32"/>
+    
+    <rect
+        x="103"
+        y="211"
+        width="12"
+        height="12"
+        rx="2"
+        fill="#26a641"/>
+    
+    <rect
+        x="118"
+        y="211"
+        width="12"
+        height="12"
+        rx="2"
+        fill="#39d353"/>
+    
+    <rect
+        x="133"
+        y="211"
+        width="12"
+        height="12"
+        rx="2"
+        fill="#69f0a0"/>
+    
+    <text
+        x="153"
+        y="220"
+        class="subtitle">
+        More
+    </text>
+
+</svg>
