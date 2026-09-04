@@ -68,7 +68,7 @@
         y="24"
         text-anchor="end"
         class="subtitle">
-        1 day streak
+        2 day streak
     </text>
 
         <rect
@@ -6720,14 +6720,14 @@
             width="12"
             height="12"
             rx="2"
-            fill="#161b22"
+            fill="#0e4429"
             style="
                 animation-delay:
                 1.475s;
             ">
             <title>
                 2026-09-04
-                — level 0
+                — level 1
             </title>
         </rect>
         
@@ -6768,7 +6768,7 @@
         x="20"
         y="187"
         class="title">
-        1 day
+        2 days
     </text>
 
 
@@ -6813,7 +6813,7 @@
         x="530"
         y="187"
         class="title">
-        37
+        38
     </text>
 
 
