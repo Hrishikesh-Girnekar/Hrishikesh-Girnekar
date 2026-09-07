@@ -6630,14 +6630,14 @@
             width="12"
             height="12"
             rx="2"
-            fill="#161b22"
+            fill="#0e4429"
             style="
                 animation-delay:
                 1.300s;
             ">
             <title>
                 2026-09-06
-                — level 0
+                — level 1
             </title>
         </rect>
         
@@ -6813,7 +6813,7 @@
         x="530"
         y="187"
         class="title">
-        39
+        40
     </text>
 
 
