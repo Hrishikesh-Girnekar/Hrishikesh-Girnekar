@@ -1,25 +1,37 @@
 <div align="center">
 
-<h3><code>hrishi@github ~ $ ./contributions.sh</code></h3>
+<img src="./hero.svg" width="100%" />
 
-<img src="./contrib-heatmap.svg" width="860" />
+<br>
 
-<br><br>
+<img src="./about.svg" width="100%" />
 
-<h3><code>hrishi@github ~ $ whoami</code></h3>
+<br>
 
-<table>
-<tr>
+<img src="./stack.svg" width="100%" />
 
-<td valign="top">
-<img src="./avi-ascii.svg" width="370" />
-</td>
+<br>
 
-<td valign="top">
-<img src="./info-card.svg" width="490" />
-</td>
+<img src="./projects.svg" width="100%" />
 
-</tr>
-</table>
+<br>
+
+<img src="./experience.svg" width="100%" />
+
+<br>
+
+<img src="./focus.svg" width="100%" />
+
+<br>
+
+<img src="./languages.svg" width="100%" />
+
+<br>
+
+<img src="./journey.svg" width="100%" />
+
+<br>
+
+<img src="./connect.svg" width="100%" />
 
 </div>

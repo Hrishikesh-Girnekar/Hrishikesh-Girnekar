@@ -1,4 +1,4 @@
-name: Update profile art
+name: Update GitHub Profile
 
 on:
   schedule:
@@ -10,23 +10,30 @@ permissions:
   contents: write
 
 jobs:
-  heatmap:
+  update-profile:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install -r scripts/requirements.txt
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
 
-      - run: python scripts/fetch_contributions.py
+      - name: Refresh GitHub language data
+        run: python scripts/make_languages.py
 
-      - run: python scripts/render_heatmap_svg.py
+      - name: Create daily profile heartbeat
+        run: |
+          echo "Profile refreshed: $(date -u '+%Y-%m-%d')" > data/daily-refresh.txt
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Commit daily profile update
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: daily profile refresh"
+          file_pattern: "languages.svg data/daily-refresh.txt"

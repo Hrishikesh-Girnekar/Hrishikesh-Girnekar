@@ -1,0 +1,321 @@
+from pathlib import Path
+
+OUTPUT_FILE = Path("hero.svg")
+
+WIDTH = 1000
+HEIGHT = 420
+
+svg = f'''<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="{WIDTH}"
+    height="{HEIGHT}"
+    viewBox="0 0 {WIDTH} {HEIGHT}">
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="24"
+        fill="#0d1117"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+    <style>
+
+        .fade {{
+            opacity: 0;
+            animation:
+                fadeIn 0.7s ease-out forwards;
+        }}
+
+        .name {{
+            font-family: monospace;
+            font-size: 38px;
+            font-weight: bold;
+            fill: #f0f6fc;
+        }}
+
+        .role {{
+            font-family: monospace;
+            font-size: 20px;
+            fill: #58a6ff;
+            font-weight: bold;
+        }}
+
+        .description {{
+            font-family: monospace;
+            font-size: 15px;
+            fill: #8b949e;
+        }}
+
+        .tech {{
+            font-family: monospace;
+            font-size: 14px;
+            fill: #f0f6fc;
+        }}
+
+        .terminal {{
+            font-family: monospace;
+            font-size: 13px;
+            fill: #8b949e;
+        }}
+
+        .status {{
+            font-family: monospace;
+            font-size: 13px;
+            fill: #3fb950;
+        }}
+
+        .button {{
+            fill: #161b22;
+            stroke: #30363d;
+            stroke-width: 1;
+        }}
+
+        .button-text {{
+            font-family: monospace;
+            font-size: 13px;
+            fill: #f0f6fc;
+        }}
+
+        @keyframes fadeIn {{
+            from {{
+                opacity: 0;
+                transform: translateY(10px);
+            }}
+
+            to {{
+                opacity: 1;
+                transform: translateY(0);
+            }}
+        }}
+
+    </style>
+
+
+    <!-- Terminal header -->
+
+    <circle cx="28" cy="28" r="6" fill="#ff5f56"/>
+    <circle cx="48" cy="28" r="6" fill="#ffbd2e"/>
+    <circle cx="68" cy="28" r="6" fill="#27c93f"/>
+
+    <text
+        x="90"
+        y="33"
+        class="terminal">
+        hrishi@github ~ $ ./profile
+    </text>
+
+
+    <!-- Availability -->
+
+    <g
+        class="fade"
+        style="animation-delay: 0.2s">
+
+        <circle
+            cx="875"
+            cy="29"
+            r="5"
+            fill="#3fb950"/>
+
+        <text
+            x="890"
+            y="34"
+            class="status">
+            AVAILABLE
+        </text>
+
+    </g>
+
+
+    <!-- Name -->
+
+    <text
+        x="55"
+        y="110"
+        class="name fade"
+        style="animation-delay: 0.35s">
+
+        HRISHIKESH GIRNEKAR
+
+    </text>
+
+
+    <!-- Role -->
+
+    <text
+        x="58"
+        y="150"
+        class="role fade"
+        style="animation-delay: 0.5s">
+
+        JAVA BACKEND DEVELOPER
+
+    </text>
+
+
+    <!-- Description -->
+
+    <text
+        x="58"
+        y="190"
+        class="description fade"
+        style="animation-delay: 0.65s">
+
+        Building secure, scalable &amp; high-performance
+
+    </text>
+
+    <text
+        x="58"
+        y="215"
+        class="description fade"
+        style="animation-delay: 0.75s">
+
+        applications with Java and Spring Boot.
+
+    </text>
+
+
+    <!-- Tech stack -->
+
+    <text
+        x="58"
+        y="260"
+        class="tech fade"
+        style="animation-delay: 0.9s">
+
+        JAVA  •  SPRING BOOT  •  REACT  •  SQL  •  AWS
+
+    </text>
+
+
+    <!-- Divider -->
+
+    <line
+        x1="58"
+        y1="285"
+        x2="942"
+        y2="285"
+        stroke="#30363d"
+        stroke-width="1"/>
+
+
+    <!-- Terminal command -->
+
+    <text
+        x="58"
+        y="320"
+        class="terminal fade"
+        style="animation-delay: 1.05s">
+
+        $ whoami
+
+    </text>
+
+
+    <text
+        x="140"
+        y="320"
+        class="description fade"
+        style="animation-delay: 1.15s">
+
+        backend engineer • full-stack experience • problem solver
+
+    </text>
+
+
+        <!-- Buttons -->
+
+    <g
+        class="fade"
+        style="animation-delay: 1.3s">
+
+        <!-- GitHub -->
+
+        <a
+            href="https://github.com/Hrishikesh-Girnekar"
+            target="_blank">
+
+            <rect
+                x="58"
+                y="350"
+                width="110"
+                height="38"
+                rx="8"
+                class="button"/>
+
+            <text
+                x="78"
+                y="374"
+                class="button-text">
+
+                GitHub →
+
+            </text>
+
+        </a>
+
+
+        <!-- LinkedIn -->
+
+        <a
+            href="https://www.linkedin.com/in/hrishikesh-girnekar-368716186/"
+            target="_blank">
+
+            <rect
+                x="182"
+                y="350"
+                width="120"
+                height="38"
+                rx="8"
+                class="button"/>
+
+            <text
+                x="202"
+                y="374"
+                class="button-text">
+
+                LinkedIn →
+
+            </text>
+
+        </a>
+
+
+        <!-- Projects -->
+
+        <a
+            href="https://github.com/Hrishikesh-Girnekar?tab=repositories"
+            target="_blank">
+
+            <rect
+                x="316"
+                y="350"
+                width="125"
+                height="38"
+                rx="8"
+                class="button"/>
+
+            <text
+                x="336"
+                y="374"
+                class="button-text">
+
+                Projects →
+
+            </text>
+
+        </a>
+
+    </g>
+
+</svg>
+'''
+
+OUTPUT_FILE.write_text(
+    svg,
+    encoding="utf-8"
+)
+
+print(f"Done! Created: {OUTPUT_FILE}")

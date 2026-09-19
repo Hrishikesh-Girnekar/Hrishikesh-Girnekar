@@ -1,0 +1,238 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1000"
+    height="300"
+    viewBox="0 0 1000 300">
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="20"
+        fill="#0d1117"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+    <style>
+
+        .fade {
+            opacity: 0;
+            animation: reveal 0.6s ease-out forwards;
+        }
+
+        .label {
+            font-family: monospace;
+            font-size: 13px;
+            fill: #58a6ff;
+            font-weight: bold;
+        }
+
+        .heading {
+            font-family: monospace;
+            font-size: 24px;
+            fill: #f0f6fc;
+            font-weight: bold;
+        }
+
+        .text {
+            font-family: monospace;
+            font-size: 13px;
+            fill: #8b949e;
+        }
+
+        .link {
+            font-family: monospace;
+            font-size: 13px;
+            fill: #f0f6fc;
+            font-weight: bold;
+        }
+
+        .dot {
+            fill: #3fb950;
+        }
+
+        .line {
+            stroke: #30363d;
+            stroke-width: 1;
+        }
+
+        @keyframes reveal {
+
+            from {
+                opacity: 0;
+                transform: translateY(8px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+
+        }
+
+    </style>
+
+
+    <!-- Section -->
+
+    <text
+        x="42"
+        y="42"
+        class="label fade"
+        style="animation-delay: 0.1s">
+
+        08 / CONNECT
+
+    </text>
+
+
+    <text
+        x="42"
+        y="82"
+        class="heading fade"
+        style="animation-delay: 0.2s">
+
+        Let's build something useful.
+
+    </text>
+
+
+    <text
+        x="42"
+        y="115"
+        class="text fade"
+        style="animation-delay: 0.35s">
+
+        Open to Java backend opportunities, interesting projects,
+
+    </text>
+
+    <text
+        x="42"
+        y="138"
+        class="text fade"
+        style="animation-delay: 0.4s">
+
+        and conversations around software engineering.
+
+    </text>
+
+
+    <line
+        x1="42"
+        y1="165"
+        x2="958"
+        y2="165"
+        class="line"/>
+
+
+    <!-- GitHub -->
+
+    <g
+        class="fade"
+        style="animation-delay: 0.55s">
+
+        <circle
+            cx="58"
+            cy="205"
+            r="5"
+            class="dot"/>
+
+        <text
+            x="78"
+            y="210"
+            class="link">
+
+            GitHub
+
+        </text>
+
+        <text
+            x="165"
+            y="210"
+            class="text">
+
+            github.com/Hrishikesh-Girnekar
+
+        </text>
+
+    </g>
+
+
+    <!-- LinkedIn -->
+
+    <g
+        class="fade"
+        style="animation-delay: 0.7s">
+
+        <circle
+            cx="410"
+            cy="205"
+            r="5"
+            class="dot"/>
+
+        <text
+            x="430"
+            y="210"
+            class="link">
+
+            LinkedIn
+
+        </text>
+
+        <text
+            x="525"
+            y="210"
+            class="text">
+
+            hrishikesh-girnekar-368716186
+
+        </text>
+
+    </g>
+
+
+    <!-- Email -->
+
+    <g
+        class="fade"
+        style="animation-delay: 0.85s">
+
+        <circle
+            cx="58"
+            cy="250"
+            r="5"
+            class="dot"/>
+
+        <text
+            x="78"
+            y="255"
+            class="link">
+
+            Email
+
+        </text>
+
+        <text
+            x="165"
+            y="255"
+            class="text">
+
+            hrishikeshgirnekar99@gmail.com
+
+        </text>
+
+    </g>
+
+
+    <text
+        x="650"
+        y="255"
+        class="label fade"
+        style="animation-delay: 1s">
+
+        BUILD • LEARN • SHIP
+
+    </text>
+
+
+</svg>

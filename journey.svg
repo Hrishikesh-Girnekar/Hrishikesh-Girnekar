@@ -1,0 +1,288 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1000"
+    height="390"
+    viewBox="0 0 1000 390">
+
+    <rect
+        width="100%"
+        height="100%"
+        rx="20"
+        fill="#0d1117"
+        stroke="#30363d"
+        stroke-width="2"/>
+
+    <style>
+
+        .fade {
+            opacity: 0;
+            animation: reveal 0.6s ease-out forwards;
+        }
+
+        .label {
+            font-family: monospace;
+            font-size: 13px;
+            fill: #58a6ff;
+            font-weight: bold;
+        }
+
+        .heading {
+            font-family: monospace;
+            font-size: 24px;
+            fill: #f0f6fc;
+            font-weight: bold;
+        }
+
+        .year {
+            font-family: monospace;
+            font-size: 13px;
+            fill: #3fb950;
+            font-weight: bold;
+        }
+
+        .title {
+            font-family: monospace;
+            font-size: 15px;
+            fill: #f0f6fc;
+            font-weight: bold;
+        }
+
+        .description {
+            font-family: monospace;
+            font-size: 12px;
+            fill: #8b949e;
+        }
+
+        .line {
+            stroke: #30363d;
+            stroke-width: 2;
+        }
+
+        .dot {
+            fill: #3fb950;
+        }
+
+        @keyframes reveal {
+            from {
+                opacity: 0;
+                transform: translateX(-10px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+    </style>
+
+
+    <text
+        x="42"
+        y="42"
+        class="label fade"
+        style="animation-delay: 0.1s">
+
+        07 / JOURNEY
+
+    </text>
+
+
+    <text
+        x="42"
+        y="82"
+        class="heading fade"
+        style="animation-delay: 0.2s">
+
+        How I got here
+
+    </text>
+
+
+    <!-- Timeline -->
+
+    <line
+        x1="75"
+        y1="125"
+        x2="75"
+        y2="335"
+        class="line"/>
+
+
+    <g
+        class="fade"
+        style="animation-delay: 0.35s">
+
+        <circle
+            cx="75"
+            cy="125"
+            r="6"
+            class="dot"/>
+
+        <text
+            x="105"
+            y="130"
+            class="year">
+
+            2021
+
+        </text>
+
+        <text
+            x="190"
+            y="130"
+            class="title">
+
+            Engineering Foundation
+
+        </text>
+
+        <text
+            x="190"
+            y="152"
+            class="description">
+
+            B.Tech in Electronics &amp; Telecommunication
+
+        </text>
+
+    </g>
+    
+    <g
+        class="fade"
+        style="animation-delay: 0.50s">
+
+        <circle
+            cx="75"
+            cy="190"
+            r="6"
+            class="dot"/>
+
+        <text
+            x="105"
+            y="195"
+            class="year">
+
+            2023
+
+        </text>
+
+        <text
+            x="190"
+            y="195"
+            class="title">
+
+            Full-Stack Development
+
+        </text>
+
+        <text
+            x="190"
+            y="217"
+            class="description">
+
+            PG-DAC • React • Node.js • Express • MongoDB
+
+        </text>
+
+    </g>
+    
+    <g
+        class="fade"
+        style="animation-delay: 0.65s">
+
+        <circle
+            cx="75"
+            cy="255"
+            r="6"
+            class="dot"/>
+
+        <text
+            x="105"
+            y="260"
+            class="year">
+
+            2025
+
+        </text>
+
+        <text
+            x="190"
+            y="260"
+            class="title">
+
+            Java Backend
+
+        </text>
+
+        <text
+            x="190"
+            y="282"
+            class="description">
+
+            Java 17 • Spring Boot • REST APIs • JPA
+
+        </text>
+
+    </g>
+    
+    <g
+        class="fade"
+        style="animation-delay: 0.80s">
+
+        <circle
+            cx="75"
+            cy="320"
+            r="6"
+            class="dot"/>
+
+        <text
+            x="105"
+            y="325"
+            class="year">
+
+            2026
+
+        </text>
+
+        <text
+            x="190"
+            y="325"
+            class="title">
+
+            Backend Engineering
+
+        </text>
+
+        <text
+            x="190"
+            y="347"
+            class="description">
+
+            Microservices • System Design • Docker • AWS
+
+        </text>
+
+    </g>
+    
+    <text
+        x="700"
+        y="300"
+        class="label fade"
+        style="animation-delay: 1.1s">
+
+        DIRECTION
+
+    </text>
+
+    <text
+        x="700"
+        y="330"
+        class="title fade"
+        style="animation-delay: 1.2s">
+
+        Full Stack → Backend
+
+    </text>
+
+</svg>
